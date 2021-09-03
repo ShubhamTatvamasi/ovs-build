@@ -6,3 +6,5 @@ cd ovs
 
 ./boot.sh
 
+make
+
