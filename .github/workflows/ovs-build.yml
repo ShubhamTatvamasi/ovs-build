@@ -1,0 +1,13 @@
+name: ovs build
+
+on:
+  push:
+    branches:
+    - master
+
+jobs:
+  ovs-build:
+    runs-on: ubuntu-latest
+    steps:
+      uses: actions/checkout@v2
+      run: ./build.sh
