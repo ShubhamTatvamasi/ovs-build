@@ -6,7 +6,7 @@ cd ovs
 
 ./boot.sh
 
-./configure --with-linux=/lib/modules/$(uname -r)/build
+./configure
 
 make
 
