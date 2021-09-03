@@ -1,5 +1,4 @@
-#!/usr/bin/bash
-
+#!/bin/bash
 
 git clone https://github.com/openvswitch/ovs.git --depth 1
 
