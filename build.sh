@@ -1,6 +1,4 @@
-#!/bin/bash
-
-echo "Hello World"
+#!/usr/bin/bash
 
 git clone https://github.com/openvswitch/ovs.git --depth 1
 
