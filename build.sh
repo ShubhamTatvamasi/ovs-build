@@ -10,3 +10,5 @@ cd ovs
 
 make
 
+make dist
+
